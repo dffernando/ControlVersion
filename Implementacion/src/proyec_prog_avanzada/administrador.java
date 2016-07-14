@@ -1,3 +1,4 @@
+//comentario
 package proyec_prog_avanzada;
 
 public class administrador extends javax.swing.JFrame {
